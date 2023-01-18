@@ -1,7 +1,7 @@
 # Some dummy code
 
 a = 1
-b = 22222222
+b = 22222
 c = 33
 d = 4
 f = 5
